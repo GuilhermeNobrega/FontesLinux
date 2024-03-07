@@ -24,3 +24,12 @@ O Figlet é uma ferramenta que permite criar representações artísticas de tex
    figlet -c frase_escolhida   # Centraliza a saída
    figlet -f nome_fonte frase_escolhida   # Nome da fonte do seu desejo
    figlet -cf nome_fonte frase_escolhida  # Junção de tudo isso
+
+3 **Saída esperada:**
+   ```bash
+
+    _          _ _                            _     _
+| |__   ___| | | ___   __      _____  _ __| | __| |
+| '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
+| | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
+|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
