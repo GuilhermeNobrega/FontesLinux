@@ -85,3 +85,45 @@ cowsay é um programa que gera imagens de arte ASCII de uma vaca com uma mensage
                 \XXXXXXXXXXXXXXXXXXXXXXXXXX/
                   ""VXXXXXXXXXXXXXXXXXXV"
 ```
+
+<hr>
+
+# cmatrix - Literalmente, Matrix!
+Matrix no terminal
+
+## Como Usar a cmatrix
+
+1. **Instalação:**
+
+   Certifique-se de ter o cmatrix instalada. Se ainda não tiver, você pode instalá-la usando:
+
+   ```bash
+   sudo apt-get install cmatrix  #Sua distro
+
+2. **Utilização:**
+
+   Principais comandos utilizados:
+   ```bash
+   cmatrix # Apresenta a matrix. Se estiver no wsl, para cancelar só ctrl-z
+   -a: Asynchronous scroll
+    -b: Bold characters on 
+    -B: All bold characters (overrides -b)
+    -c: Use Japanese characters as seen in the original matrix. Requires appropriate fonts
+    -f: Force the linux $TERM type to be on
+    -l: Linux mode (uses matrix console font)
+    -L: Lock mode (can be closed from another terminal)
+    -o: Use old-style scrolling
+    -h: Print usage and exit
+    -n: No bold characters (overrides -b and -B, default)
+    -s: "Screensaver" mode, exits on first keystroke
+    -x: X window mode, use if your xterm is using mtx.pcf
+    -V: Print version information and exit
+    -u delay (0 - 10, default 4): Screen update delay
+    -C [color]: Use this color for matrix (default green)
+    -r: rainbow mode
+    -m: lambda mode
+
+3 **Saída esperada:**
+   <p align="left">
+   <img src="https://www.cyberciti.biz/media/new/cms/2018/01/small-cmtarix-file.gif">
+   </p>
