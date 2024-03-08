@@ -1,6 +1,6 @@
 # Figlet - Arte de Texto em Estilo ASCII
 
-Bem-vindo ao mundo criativo da arte de texto em estilo ASCII com o Figlet! 🚀
+Bem-vindo ao mundo criativo da arte de texto, estilo ASCII e outras características criativas! 🚀
 
 O Figlet é uma ferramenta que permite criar representações artísticas de texto usando caracteres ASCII. Dê um toque especial às suas mensagens, banners ou scripts com estilo e personalidade.
 
