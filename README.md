@@ -52,15 +52,13 @@ O Figlet é uma ferramenta que permite criar representações artísticas de tex
 ## Como Usar o Figlet
 
 1. **Instalação:**
-
-   Certifique-se de ter o Figlet instalado. Se ainda não tiver, você pode instalá-lo usando:
-
+   
    ```bash
    sudo apt-get install figlet   # No Ubuntu
    brew install figlet           # No macOS usando Homebrew
    man figlet
 
-2. **Utilização:**
+3. **Utilização:**
 
    Principais comandos utilizados:
 
@@ -87,8 +85,6 @@ cowsay é um programa que gera imagens de arte ASCII de uma vaca com uma mensage
 ## Como Usar a cowsay
 
 1. **Instalação:**
-
-   Certifique-se de ter o cowsay instalado. Se ainda não tiver, você pode instalá-lo usando:
 
    ```bash
    sudo apt-get install cowsay   # No Ubuntu
@@ -140,8 +136,6 @@ Matrix no terminal
 
 1. **Instalação:**
 
-   Certifique-se de ter o cmatrix instalada. Se ainda não tiver, você pode instalá-la usando:
-
    ```bash
    sudo apt-get install cmatrix  #Sua distro
 
@@ -181,8 +175,6 @@ Matrix no terminal
 
 1. **Instalação:**
 
-   Certifique-se de ter o sl instalado. Se ainda não tiver, você pode instalá-lo usando:
-
    ```bash
    sudo apt-get install sl  #Sua distro
 
@@ -203,7 +195,6 @@ Principais comandos utilizados:
 
 1. **Instalação:**
 
-   Certifique-se de ter o ninvaders instalado. Se ainda não tiver, você pode instalá-lo usando:
 ```bash
 sudo apt-get install ninvaders
 ```
@@ -218,3 +209,24 @@ ninvaders # Só para execução do jogo
 3 **Saída esperada:**
 
 <img src="https://www.edivaldobrito.com.br/wp-content/uploads/2020/08/instalar-o-jogo-ninvaders.jpg">
+<hr>
+
+# bastet - Blocos e blocos..!?
+
+1. **Instalação:**
+
+```bash
+sudo apt install bastet
+```
+
+2. **Utilização:**
+Principais comandos utilizados:
+
+```bash
+bastet # Só para execução do jogo
+```
+
+3 **Saída esperada:**
+
+<img src="https://community.linuxmint.com/img/screenshots/bastet.png">
+<hr>
