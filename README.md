@@ -127,3 +127,27 @@ Matrix no terminal
    <p align="left">
    <img src="https://www.cyberciti.biz/media/new/cms/2018/01/small-cmtarix-file.gif">
    </p>
+<hr>
+
+# sl - Locomotiva a todo vapor!
+🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂
+
+## Como Usar a locomotiva sl
+
+1. **Instalação:**
+
+   Certifique-se de ter o sl instalado. Se ainda não tiver, você pode instalá-lo usando:
+
+   ```bash
+   sudo apt-get install sl  #Sua distro
+
+2. **Utilização:**
+Principais comandos utilizados:
+   ```bash
+   sl # Só o trem padrão.
+   sl -l # o trem com vagões.
+   sl -la # trem pedindo ajuda
+   
+3 **Saída esperada:**
+
+<img src="https://www.cyberciti.biz/media/new/tips/2011/05/sl_command_steam_locomotive.png">
