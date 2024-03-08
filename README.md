@@ -196,3 +196,25 @@ Principais comandos utilizados:
 3 **Saída esperada:**
 
 <img src="https://www.cyberciti.biz/media/new/tips/2011/05/sl_command_steam_locomotive.png">
+<hr>
+
+# ninvaders - Quem disse que jogos antigos são ruins!?
+👾👾👾👾👾👾👾👾👾👾👾
+
+1. **Instalação:**
+
+   Certifique-se de ter o ninvaders instalado. Se ainda não tiver, você pode instalá-lo usando:
+```bash
+sudo apt-get install ninvaders
+```
+
+2. **Utilização:**
+Principais comandos utilizados:
+
+```bash
+ninvaders # Só para execução do jogo
+```
+
+3 **Saída esperada:**
+
+<img src="https://www.edivaldobrito.com.br/wp-content/uploads/2020/08/instalar-o-jogo-ninvaders.jpg">
